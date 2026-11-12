@@ -1,1 +1,3 @@
-# Una historia por linea, en el orden en que se implementan (ej: US-3). La ultima es la actual.
+# CASOS DE CONTROL (rama control, no va a main)
+US-901
+US-902
