@@ -1,7 +1,5 @@
 package ar.org.centroblancoynegro.gestion.evaluacion.us91;
 
-import static ar.org.centroblancoynegro.gestion.evaluacion.soporte.TestData.CLAVE;
-import static ar.org.centroblancoynegro.gestion.evaluacion.soporte.TestData.CLAVE_CIFRADA;
 import static ar.org.centroblancoynegro.gestion.evaluacion.soporte.TestData.PASSWORD;
 import static ar.org.centroblancoynegro.gestion.evaluacion.soporte.TestData.PASSWORD_HASH;
 import static org.assertj.core.api.Assertions.assertThat;
